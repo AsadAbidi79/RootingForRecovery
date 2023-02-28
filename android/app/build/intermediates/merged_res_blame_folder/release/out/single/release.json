@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxxhdpi_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxxhdpi/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon7.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon7.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawer.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawer.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_notificationdp2.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_notificationdp2.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon3.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon3.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_headerimage.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_headerimage.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/drawable/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon8.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon8.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_like.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_like.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_menuicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_menuicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_videoplayer.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_videoplayer.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon1.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon1.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon4.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon4.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_articlepic.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_articlepic.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-mdpi_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-mdpi/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawerprofile.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawerprofile.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_editprofile.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_editprofile.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxhdpi_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxhdpi/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-hdpi_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-hdpi/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/raw_src_assets_images_video.mp4.flat",
+        "source": "com.rootingforrecovery.app-react-30:/raw/src_assets_images_video.mp4"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/layout_launch_screen.xml.flat",
+        "source": "com.rootingforrecovery.app-main-36:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_videocard.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_videocard.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_notificationdp.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_notificationdp.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon5.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon5.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.rootingforrecovery.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_videoicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_videoicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_applogo.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_applogo.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_videoarrow.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_videoarrow.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon6.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon6.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon2.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon2.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_video.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_video.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_drawericon9.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_drawericon9.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable_background_splash.xml.flat",
+        "source": "com.rootingforrecovery.app-main-36:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_card1.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_card1.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-mdpi_src_assets_images_direction.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-mdpi/src_assets_images_direction.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-xhdpi_splash.jpg.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-xhdpi/splash.jpg"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.rootingforrecovery.app-react-30:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.rootingforrecovery.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.rootingforrecovery.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
